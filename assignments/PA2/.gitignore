@@ -1,0 +1,4 @@
+*.o
+lexer
+mycoolc
+cool-lex.cc
